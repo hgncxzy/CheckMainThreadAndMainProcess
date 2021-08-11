@@ -3,6 +3,10 @@ package com.xzy.checkmainthreadandmainprocess;
 import android.os.Looper;
 import android.util.Log;
 
+/**
+ *
+ * @author xzy
+ */
 public class IsMainThread {
 
     public static boolean isMainThread01() {
