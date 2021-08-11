@@ -1,0 +1,2 @@
+# CheckMainThreadAndMainProcess
+检测当前线程是否是主线程和当前进程是否是主进程
